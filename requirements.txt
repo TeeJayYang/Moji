@@ -5,4 +5,4 @@ discord.py==0.16.12
 multidict==4.1.0
 nltk==3.4.5
 six==1.11.0
-websockets==3.4
+websockets==9.1
